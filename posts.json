@@ -6,7 +6,7 @@
     "imageUrl": "grafico_variacoes.png",
     "path": "posts/post1.html",
     "date": "01/08/2025",
-    "cta": "Saiba mais"
+    "cta": "Ler mais"
   },
   {
     "id": "post2",
@@ -15,7 +15,7 @@
     "imageUrl": "assets/ABEV3_chartseries.png",
     "path": "posts/sobre-o-blog.html",
     "date": "03/08/2025",
-    "cta": "Saiba mais"
+    "cta": "Ler mais"
   }
   ,
   {
@@ -25,7 +25,7 @@
     "imageUrl": "assets/ABEV3_chartseries.png",
     "path": "posts/post2.html",
     "date": "02/08/2025",
-    "cta": "Saiba mais"
+    "cta": "Ler mais"
   }
     ,
   {
@@ -35,7 +35,7 @@
     "imageUrl": "assets/ABEV3_chartseries.png",
     "path": "posts/post2.html",
     "date": "04/08/2025",
-    "cta": "Saiba mais"
+    "cta": "Ler mais"
   }
   ,
   {
@@ -45,6 +45,6 @@
     "imageUrl": "assets/ABEV3_chartseries.png",
     "path": "posts/post2.html",
     "date": "05/08/2025",
-    "cta": "Leia agora!"
+    "cta": "Ler agora!"
   }
 ]
