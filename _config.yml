@@ -1,0 +1,8 @@
+# Título do seu blog
+title: Meu Blog Incrível
+
+# Descrição do seu blog
+description: Um blog sobre tecnologia, viagens e mais.
+
+# Permite mudar a estrutura das URLs
+permalink: /:title/
